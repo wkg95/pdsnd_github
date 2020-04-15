@@ -20,3 +20,6 @@ Project_2_Code.py
 ### About me
 I am a telecommunications professional of seventeen years learning new skills in data science for my current career and beyond.
 
+### Connect with me
+www.linkedin.com/in/kenneth-godsey
+

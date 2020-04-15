@@ -1,15 +1,25 @@
 ### Date created
-Include the date you created this project and README file.
+4/15/20
 
 ### Project Title
-Replace the Project Title
+Udacity Programming for Data Science Degree Project 2
 
 ### Description
-Describe what your project is about and what it does
+I explored data provided for this project from Motivate, a bikeshare provider.
+Data was provided for the first six months of 2017 for the cities of Chicago, New York City, and Washington.
+I wrote code using Python to answer questions about the provided data.
+I also wrote an interactive script to be used in a terminal to filter data and provide output.
 
 ### Files used
-Include the files used
+bikeshare_2.py
+chicago.csv
+new_york_city.csv
+washington.csv
+Project_2_Code.py
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### About me
+I am a telecommunications professional of seventeen years learning new skills in data science for my current career and beyond.
+
+### Connect with me
+www.linkedin.com/in/kenneth-godsey
 

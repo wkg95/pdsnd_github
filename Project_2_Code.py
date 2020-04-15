@@ -1,3 +1,5 @@
+    """ Bikeshare Project Code """
+
 import pandas as pd
 import numpy as np
 import datetime as dt
@@ -10,6 +12,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 print('Hello! Let\'s explore some US bikeshare data!\n')
 def get_filters():
+
     """
     Asks user to specify a city, month, and day to analyze.
 
@@ -19,7 +22,6 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
 
     If inputs are not valid, function will ask user to restart the program.
-
     """
     while True:
         city = input('\nWould you like to see bikeshare data for Chicago, New York, or Washington?\n').lower()

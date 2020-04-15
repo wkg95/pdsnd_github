@@ -17,3 +17,6 @@ new_york_city.csv
 washington.csv
 Project_2_Code.py
 
+### About me
+I am a telecommunications professional of seventeen years learning new skills in data science for my current career and beyond.
+

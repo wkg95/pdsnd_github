@@ -10,7 +10,6 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 print('Hello! Let\'s explore some US bikeshare data!\n')
 def get_filters():
-
     """
     Asks user to specify a city, month, and day to analyze.
 
